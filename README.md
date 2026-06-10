@@ -1,22 +1,10 @@
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Sudhir Kumar Gupta</h1>
 <h3 align="center">🚀 CSE Student | Web Developer | Python & C++ Enthusiast</h3>
 
 <p align="center">
-<a href="https://github.com/Spidy-Sudhir">
-<img src="https://komarev.com/ghpvc/?username=Spidy-Sudhir&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</a>
+  <a href="https://github.com/Spidy-Sudhir">
+    <img src="https://komarev.com/ghpvc/?username=Spidy-Sudhir&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
 </p>
 
 ---
@@ -66,30 +54,26 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<!--
 ---
 
-## 🚀 Featured Projects
 
-### 🎮 Multiplayer Tic Tac Toe Web Game
-🔹 Real-time multiplayer gameplay using **Firebase Realtime Database**  
-🔹 Room-based gameplay with premium responsive UI  
-🔹 Built using **HTML, CSS, JavaScript & Firebase**
-
-### 🎨 Air Canvas (Virtual Drawing App)
-🔹 Gesture-based virtual drawing using **Computer Vision**  
-🔹 Hand tracking and color detection with **OpenCV & NumPy**  
-🔹 Built using **Python**
-
---->
+---
 
 ## 📊 GitHub Stats
 
-<p align="center">
 <!-- <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Spidy-Sudhir&show_icons=true&theme=tokyonight" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Spidy-Sudhir&show_icons=true&theme=tokyonight" />
 </p> -->
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Spidy-Sudhir&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spidy-Sudhir&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spidy-Sudhir&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 💡 Quote I Believe In
+> "Consistency beats motivation."
