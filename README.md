@@ -50,12 +50,8 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github" />
-</p>
 
-**Development Environment:** AntiGravity
+`VS Code` • `AntiGravity` • `GitHub`
 ---
 
 
