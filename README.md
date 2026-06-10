@@ -53,8 +53,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,github" />
 </p>
 
-`AntiGravity` • `DSA` • `Responsive Design`
-
 ## 📊 GitHub Stats
 
 <!-- <p align="center">
