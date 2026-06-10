@@ -43,20 +43,9 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
 </p>
 
-### Web Development
+### Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,firebase" />
-</p>
-
-### Core Concepts
-<p>
-  <img src="https://img.shields.io/badge/DSA-FF6B00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Responsive_Design-0A66C2?style=for-the-badge" />
-</p>
-
-### Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,firebase,netlify,vercel" />
 </p>
 
 ### Tools
@@ -64,11 +53,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,github" />
 </p>
 
-**Development Environment:** `AntiGravity`
----
-
-
----
+`AntiGravity` • `DSA` • `Responsive Design`
 
 ## 📊 GitHub Stats
 
