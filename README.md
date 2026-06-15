@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 💻 Currently working on **DSA, Web Development & Real-World Projects**  
-🌱 Learning **C++, DSA, Firebase & Full Stack Development**  
+🌱 Learning **Python, C++, DSA, Firebase & Full Stack Development**  
 🎯 Goal: **Crack top placements and build impactful software**  
 ⚡ Fun Fact: **I enjoy creating premium-looking UI projects**
 
