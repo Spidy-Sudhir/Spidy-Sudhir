@@ -69,5 +69,5 @@
 
 ---
 <!--
-### 💡 Quote I Believe In
-> "Consistency beats motivation." -->
+### 💡 Quote I Believe In 
+> "Consistency beats motivation..." -->
